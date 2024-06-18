@@ -10,6 +10,8 @@ Measurng key metrics for user acquisition, user behaviour, user conversion.
 
 
 <img width="540" alt="image" src="https://github.com/tahiyar7/Analytics-Vault/assets/105504069/7e4c03e9-2306-4e80-bb3e-60c9debc53b6">
+<img width="496" alt="image" src="https://github.com/tahiyar7/Analytics-Vault/assets/105504069/bea4843e-45db-4d6a-8e4e-19a81876a573">
+
 
 
 
