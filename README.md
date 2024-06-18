@@ -7,7 +7,13 @@ Hi, This is Tahiya. This repository serves as the central hub for all documentat
 Key Features:
 Measurng key metrics for user acquisition, user behaviour, user conversion. 
 
+
+
+
 <img width="540" alt="image" src="https://github.com/tahiyar7/Analytics-Vault/assets/105504069/7e4c03e9-2306-4e80-bb3e-60c9debc53b6">
+
+
+
 
 
 Step-by-step guides and tutorials to help users set up and configure their Google Analytics accounts.
