@@ -13,16 +13,6 @@ Hi, This is Tahiya. This repository serves as the central hub for all documentat
 
 
 
-
-┌─────────────────────────────┐       ┌─────────────────────────────┐       ┌─────────────────────────────┐       ┌─────────────────────────────┐
-│           User              │       │           User              │       │           User              │       │           User              │
-│        Acquisition          │       │         Behavior            │       │         Analytics           │       │         Conversion          │
-└─────────────────────────────┘       └─────────────────────────────┘       └─────────────────────────────┘       └─────────────────────────────┘
-     (Search, Social, Email, Ads)          (Clicks, Scrolls, Page Views)         (Graphs, Charts, Dashboards)         (Cart, Signup, Download)
-
-
-
-
 Key Features:
 Measurng key metrics for user acquisition, user behaviour, user conversion. 
 
