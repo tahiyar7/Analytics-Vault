@@ -2,7 +2,16 @@
 serves as the central hub for all documentation related to Google Analytics, catering to both beginners and advanced users from my past experience working with Google Analytics. 
 
 
+
+
 Hi, This is Tahiya. This repository serves as the central hub for all documentation related to Google Analytics, catering to both beginners and advanced users.
+
+
+      [User Acquisition] ---> [User Behavior] ---> [User Analytics] ---> [User Conversion]
+       (Search, Social,        (Clicks, Scrolls,      (Graphs, Charts,        (Cart, Signup,
+        Email, Ads)             Page Views)           Dashboards)              Download)
+
+
 
 Key Features:
 Measurng key metrics for user acquisition, user behaviour, user conversion. 
